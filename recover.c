@@ -1,4 +1,4 @@
-//Made by Ahmed Fawzy (YZWAF99) Edited by AhmedSafe
+//Made by Ahmed Fawzy (Yzwaf99) Edited by AhmedSafe
 
 #include <stdio.h>
 #include <stdlib.h>
